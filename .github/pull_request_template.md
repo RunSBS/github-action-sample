@@ -1,13 +1,9 @@
----
-name: "Pull Request Template"
-about: Pull Request 추가 템플릿
-title: "[Pull Reqeust] "
+## Issue Number
+- close #{Issue Number}
 
----
+## Check List
+- [ ] 테스트 통과 확인
+- [ ] 모든 commit이 push 확인
+- merge branch 확인
 
-## Description
--
-
-## TODO
-- [ ]
-- [ ]
+## (Optional) Additional Description
