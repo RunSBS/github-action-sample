@@ -1,4 +1,4 @@
-## Issue Number
+## Issue number
 - close #{Issue Number}
 
 ## Check List
