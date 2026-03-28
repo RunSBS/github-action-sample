@@ -1,5 +1,5 @@
 ## Issue number
-- close #{Issue Number}
+- close #
 
 ## Check List
 - [ ] 테스트 통과 확인
