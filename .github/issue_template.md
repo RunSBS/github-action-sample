@@ -1,6 +1,6 @@
 ---
-name: ''
-about: ''
+name: 'issue'
+about: 'issue for description '
 title: ""
 ---
 
