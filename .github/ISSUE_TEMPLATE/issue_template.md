@@ -1,8 +1,3 @@
----
-name: 'issue'
-about: 'issue for description'
----
-
 ## 📝 Issue 내용 요약
 
 >
